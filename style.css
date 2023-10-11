@@ -10,7 +10,7 @@ h1{
     gap: 20px;
 }
 #Login-box{
-    background-color: blue;
+    background-color: antiquewhite;
     display: flex;
     justify-content: center;
     width: 50%;
